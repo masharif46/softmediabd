@@ -1,0 +1,57 @@
+.erika_fas_ic li{
+	display: block;
+	margin-right: 5px;
+	float: left;
+}
+.erika_fas_ic li a{
+	display: inline-block;
+	border-color: #dfdfdf;
+	width: 37px;
+	height: 37px;
+	text-decoration: none;
+	text-align: center;
+	font-size: 16px;
+	line-height: 35px;
+	color: #000000;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-transition-duration: .25s;
+	-moz-transition-duration: .25s;
+	-ms-transition-duration: .25s;
+	-o-transition-duration: .25s;
+	transition-duration: .25s;
+	box-sizing: border-box;
+	-webkit-transition-property: all;
+	-moz-transition-property: all;
+	transition-property: all;
+}
+.erika_fas_ic li a:hover,
+.erika_fas_ic li.active a{
+	background: #114C7F;
+	color: #fff;
+	border-color: #114C7F;
+}
+.ish_buttons_selector_list li a,
+.ish_buttons_selector_full_list li a{
+	width: auto;
+	min-width: 45px;
+	padding: 0 10px;
+	font-size: 12px;
+}
+.erika_fas_ic li a.ish-icon-noneselected:hover,
+.erika_fas_ic li.active a.ish-icon-noneselected:hover{
+	background-color: #dfdfdf;
+	color: #ffffff;
+	border-color: #dfdfdf;
+	box-shadow: none;
+}
+.erika_fas_ic li.active a.ish-icon-noneselected{
+	background-color: transparent;
+	border-color: #dfdfdf;
+	box-shadow: none;
+}
+.erika_fas_ic li a.ish-icon-noneselected{
+	color: #dfdfdf;
+}

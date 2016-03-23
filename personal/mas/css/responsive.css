@@ -1,0 +1,262 @@
+@media screen and (max-width: 767px) {
+	.bottom-sm-90 {margin-bottom: 90px!important}
+	.bottom-sm-60 {margin-bottom: 60px!important}
+	.bottom-sm-30 {margin-bottom: 30px!important}
+	.bottom-sm-20 {margin-bottom: 20px!important}
+	.bottom-sm-10 {margin-bottom: 10px!important}
+	.bottom-xs-60 {margin-bottom: 60px!important}
+	.bottom-xs-30 {margin-bottom: 30px!important}
+	.bottom-xs-20 {margin-bottom: 20px!important}
+	.bottom-xs-10 {margin-bottom: 10px!important}
+	.bottom-xs-1 {margin-bottom: 1px!important}
+	.top-xs-30 {margin-top: 30px!important}
+	.top-xs-20 {margin-top: 20px!important}
+	.top-xs-10 {margin-top: 10px!important}
+	.top-sm-60 {margin-top: 60px!important}
+	.top-sm-30 {margin-top: 30px!important}
+	.top-sm-20 {margin-top: 20px!important}
+	.top-sm-10 {margin-top: 10px!important}
+	.text-sm-center {text-align: center !important}
+	.text-sm-left {text-align: left !important}
+	.text-sm-right {text-align: right !important}
+	.text-xs-center {text-align: center !important}
+	.text-xs-left {text-align: left !important}
+	.text-xs-right {text-align: right !important}
+
+	.content-sidebar .content-inner {
+		border-right: 0;
+		padding-right: 0;
+	}
+	.content-sidebar .sidebar-inner {
+		border-left: 0;
+		padding-left: 0;
+		margin-left: 0;
+	}
+	.sidebar-content .content-inner {
+		border-left: 0;
+		padding-left: 0;
+	}
+	.sidebar-content .sidebar-inner {
+		border-right: 0;
+		padding-right: 0;
+		margin-right: 0;
+	}
+	.sidebar-content .blog-item .blog-right-side {
+		padding: 0;
+	}
+	.sidebar-content #content,
+	.sidebar-content-sidebar #sidebar-content {
+		float: none;
+	}
+	.sidebar-content-sidebar .sidebar-content-inner {
+		border-left: 0;
+	}
+	.sidebar-content-sidebar .sidebar-content-inner .content-inner {
+		border: 0;
+		padding: 0;
+	}
+	.sidebar-content-sidebar .sidebar-content-inner .sidebar-inner {
+		border: 0;
+		margin-left: 0;
+		padding-left: 0;
+	}
+	.sidebar-content-sidebar .blog-item .blog-short-info .author-avatar {
+		margin: 0 0 60px -20px; 
+	}
+	.sidebar-content-sidebar .blog-item .blog-icon {
+		right: -10px;
+	}
+	.sidebar-content-sidebar .blog-item .blog-social {
+		margin-left: 15px;
+	}
+	.blog-item.medium .blog-left-side {
+		float: none;
+	}
+	.blog-item .blog-left-side {
+		width: auto;
+		float: none;
+	}
+	.blog-item .blog-right-side {
+		padding-left: 0;
+	}
+	.blog-item .blog-short-info .author-avatar {
+		margin: 0 0 60px 0;
+	}
+	.breadcrumbs {
+		float: left;
+		margin: 10px 0 0;
+		text-align: left;
+	}
+	#footer .footer-widget .widget {
+		margin-bottom: 30px;
+	}
+
+	.testimonail-detail:before {
+		border-width: 0 20px 20px 20px;
+		border-color: transparent transparent #343030 transparent;
+		left: 20px;
+		top: -10px;
+
+	}
+	.color-box {
+		width: 100% !important;
+		margin-bottom: 1px;
+	}
+	.blog-item.medium .entry-title {
+		padding: 0;
+	}
+	.height-group {
+		height: auto !important;
+	}
+	.slider-box {
+		margin-top: 0;
+	}
+	.accordion .accordion-heading .accordion-title a:after {
+		display: none;
+	}
+	.tabs.center .tabNavigation li,
+	.tabs.main .tabNavigation li {
+		float: none;
+		display: block;
+		margin-right: 0;
+		text-align: left;
+	}
+	.tabs.right .tabNavigation li.active a {
+		margin-left: 0;
+	}
+	.tabs.right .tabNavigation li.active {
+		padding-left: 4px;
+	}
+	.tabs.right .tabNavigation {
+		width: auto;
+		float: none;
+		text-align: left;
+	}
+	.tabs.right .tabs-container {
+		margin-right: 0;
+	}
+	.tabs.left .tabNavigation li.active a {
+		margin-right: 0;
+	}
+	.tabs.left .tabNavigation li.active {
+		padding-right: 4px;
+	}
+	.tabs.left .tabNavigation {
+		width: auto;
+		float: none;
+		text-align: left;
+	}
+	.tabs.left .tabs-container {
+		margin-left: 0;
+	}
+
+	/* Timeline */
+	.timeline {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.timeline:before {
+	    left: 12px;
+		margin-left: 0;
+	}
+	.timeline > li {
+		float:left;
+		width:100%;
+		padding:0 0 0 37px !important;
+		margin:0 0 20px !important;
+	}
+	.timeline > li:first-child {
+	    padding-top: 60px !important;
+	}
+	.timeline > li .timeline-item:before {
+	    left: -32px !important;
+	}
+	.timeline > li .timeline-item .timeline-date {
+	    left: 0;
+		right:auto !important;
+	}
+
+	.comment ul {
+		padding-left: 0;
+	}
+	.comment .avatar{
+		width: 40px;
+	}
+	.comment .comment-text{
+		margin: 0 0 0 60px;
+	}
+
+	.comment-form textarea {
+		margin: -15px 0 5px;
+	}
+	.comment-form button,
+	.comment-form input[type=submit] {
+		display: block;
+	}
+	.xs-container {
+	  margin-right: auto;
+	  margin-left: auto;
+	  padding-left: 15px;
+	  padding-right: 15px;
+	}
+
+	.blog-item.small .entry-image img {
+		width: 100% !important;
+		height: auto;
+	}
+
+	.masonry-brick {
+		width: 100%;
+	}
+
+	.animated{
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+	.cover{
+		background-position: top!important;
+	}
+	.height-group{
+		height: auto !important
+	}
+
+}
+@media screen and (max-width: 991px) {
+	.slider-box {
+		margin-top: 0;
+	}
+	.timeline {
+		padding: 0 0 40px;
+	}
+}
+@media (min-width: 768px) {
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.bottom-sm-30{margin-bottom: 30px!important}
+	.bottom-sm-20{margin-bottom: 20px!important}
+	.bottom-sm-10{margin-bottom: 10px!important}
+	.top-sm-60{margin-top: 60px!important}
+	.top-sm-30{margin-top: 30px!important}
+	.top-sm-20{margin-top: 20px!important}
+	.top-sm-10{margin-top: 10px!important}
+	.text-sm-center{text-align: center !important}
+	.text-sm-left{text-align: left !important}
+	.text-sm-right{text-align: right !important}
+	
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	.bottom-md-30{margin-bottom: 30px!important}
+	.bottom-md-20{margin-bottom: 20px!important}
+	.bottom-md-10{margin-bottom: 10px!important}
+	#sb-site { z-index: auto }
+}
+@media (min-width: 1200px) {
+	.bottom-lg-30{margin-bottom: 30px!important}
+	.bottom-lg-20{margin-bottom: 20px!important}
+	.bottom-lg-10{margin-bottom: 10px!important}
+	#sb-site { z-index: auto }
+}

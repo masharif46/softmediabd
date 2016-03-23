@@ -1,0 +1,41 @@
+.heading-nav ul li a:hover,.heading-nav ul li.active a {
+	border-bottom-color: #f39c12;
+}
+.color-box.default {
+	background-color:#f39c12!important;
+}
+.button.stroke {
+	border-color:#f39c12;
+	color:#f39c12;
+}
+.iconbox.top .iconbox-content h4 {
+	border-bottom-color:#f39c12;
+}
+.stepbox .step:after {
+	border-color:#f39c12 transparent transparent;
+}
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,a:hover,.blog-item .entry-meta span i,.blog-item .entry-info span i,.widget .widget-title span,.widget.category ul li a:before,.widget.recent-comment ul li:before,.widget.posts ul .post-content h4 a:hover,.widget.latest-tweet ul li:before,.widget.contact ul li .icon,.heading-area .heading span,.testimonail-detail .testimonial-info span.name,.counter-box .counter-icon,.service-box .service-icon,.accordion .accordion-heading .accordion-title a,.accordion .accordion-heading .accordion-title a:after,.tabs.main .tabNavigation li.active a,.tabs.center .tabNavigation li.active a,.pricing-table .pricing-content ul li i,.iconbox .iconbox-icon,.icon-list i,.product-review .star-rating,.sb-slidebar ul a:hover {
+	color:#f39c12;
+}
+.button,button,input[type=submit],input[type=button],input[type=reset],#header .site-menu .site-menu-inner ul ul,#header .site-menu .site-menu-inner .sf-mega-content,.header-icon-search:hover,.header-search.header-search-open .header-icon-search,.blog-item .blog-icon,.entry-image .entry-action span,.pagenavi li span,.widget.action,.widget.tags a:hover,.widget.posts ul .post-icon,.blog-item .blog-info .blog-title,.contactblock,.contact-modal .contact-modeal-heading,.option-list ul ul li:hover,.jobbox .jobbox-footer a,.portfolio-item .portfolio-info .portfolio-info-inner,.product-item.hover .product-title-area,#product-detail .product-amount .field.a span,.flex-direction-nav a,.sb-slidebar ul a:hover:after {
+	background-color:#f39c12;
+}
+#header .site-menu .site-menu-inner ul > li.sfHover > a,#header .site-menu .site-menu-inner ul li a:hover,#header .site-menu .site-menu-inner ul li.current-menu-item > a,#header .menu-container .site-menu .site-menu-inner ul li a:hover,#header .menu-container .site-menu .site-menu-inner ul > li.sfHover > a,#header .menu-container .site-menu .site-menu-inner ul li.current-menu-item > a,.flex-control-nav li a:hover {
+	background-color:#f39c12;
+	border-color:#f39c12;
+}
+.small-quote,.heading-area,.button.stroke .icon,.accordion.faq.toggle .accordion-item.active,.callout.action {
+	border-left-color:#f39c12;
+}
+.stepbox .step,.carouselbox .nav a:hover,.probox .probox-heading {
+	background:#f39c12;
+}
+.field input.error,.flex-control-nav li a.flex-active:hover {
+	border-color:#f39c12;
+}
+#header .site-menu .site-menu-inner ul ul a:hover,#header .site-menu .site-menu-inner ul ul li.sfHover > a,#header .site-menu .site-menu-inner ul ul li.current-menu-item > a,#header .menu-container .site-menu .site-menu-inner ul ul a:hover,#header .menu-container .site-menu .site-menu-inner ul ul li.sfHover > a,#header .menu-container .site-menu .site-menu-inner ul ul li.current-menu-item > a {
+	background-color: #ffbd54;
+}
+#header .site-menu .site-menu-inner ul ul li {
+	border-bottom-color: #ffbd54;
+}
